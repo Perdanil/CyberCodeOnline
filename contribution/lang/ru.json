@@ -355,11 +355,11 @@
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        ИИ отправляется в данж за тебя. Использует AI Core, который чаще всего имеет билет в один конец.",
+ 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        ИИ отправляется в данж за тебя. Использует AI ядро, который чаще всего имеет билет в один конец.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй свой AI Core, чтобы автоматически побеждать противников",
+ 	 	 	 	"trans": "Используй свё AI ядро, чтобы автоматически побеждать противников",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -393,37 +393,37 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "плохого качества",
+ 	 	 	 	"trans": "Плохого качества",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "обычного качества",
+ 	 	 	 	"trans": "Обычного качества",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "высокого качества",
+ 	 	 	 	"trans": "Высокого качества",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "редкого качества",
+ 	 	 	 	"trans": "Редкого качества",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "легендарного качества",
+ 	 	 	 	"trans": "Легендарного качества",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "эпического качества",
+ 	 	 	 	"trans": "Эпического качества",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -481,37 +481,37 @@
  	 	},
  	 	"helmet": {
  	 	 	"name": {
- 	 	 	 	"trans": "шлем",
+ 	 	 	 	"trans": "Шлем",
  	 	 	 	"eng": "helmet"
  	 	 	}
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "верхняя броня",
+ 	 	 	 	"trans": "Верхняя броня",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "нижняя броня",
+ 	 	 	 	"trans": "Нижняя броня",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "обувь",
+ 	 	 	 	"trans": "Обувь",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "модуль улучшения",
+ 	 	 	 	"trans": "Модуль улучшения",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Болеутоляющее",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -521,7 +521,7 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Repair Bot",
+ 	 	 	 	"trans": "Испорченный нанобот-ремонтник",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
@@ -531,7 +531,7 @@
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Medic Bot",
+ 	 	 	 	"trans": "Испорченный нанобот-медик",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -541,7 +541,7 @@
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Medic Bot",
+ 	 	 	 	"trans": "Нанобот-медик",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -551,7 +551,7 @@
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano Medic Bot",
+ 	 	 	 	"trans": "Военный нанобот-медик",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -561,7 +561,7 @@
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advanced Nano Medic Bot",
+ 	 	 	 	"trans": "Продвинутый нанобот-медик",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -571,7 +571,7 @@
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano Medic Bot",
+ 	 	 	 	"trans": "Высококачественный нанобот-медик",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -581,7 +581,7 @@
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano Medic Bot",
+ 	 	 	 	"trans": "Редкий нанобот-медик",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -591,7 +591,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Болеутоляющий спрей",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -601,7 +601,7 @@
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Repair drone",
+ 	 	 	 	"trans": "Испорченный дрон-ремонтник",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
@@ -611,7 +611,7 @@
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded nano medic drone",
+ 	 	 	 	"trans": "Испорченный нанодрон-медик",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -621,7 +621,7 @@
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano medic drone",
+ 	 	 	 	"trans": "Нанодрон-медик",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -631,7 +631,7 @@
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano medic drone",
+ 	 	 	 	"trans": "Военный нанодрон-медик",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -641,7 +641,7 @@
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advance Nano medic drone",
+ 	 	 	 	"trans": "Продвинутый нанодрон-медик",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -651,7 +651,7 @@
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano medic drone",
+ 	 	 	 	"trans": "Высококачественный нанодрон-медик",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -661,7 +661,7 @@
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano medic drone",
+ 	 	 	 	"trans": "Редкий нанодрон-медик",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -671,7 +671,7 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Medical Tech Parts",
+ 	 	 	 	"trans": "Части мед. оборудования",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
@@ -691,7 +691,7 @@
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hash Processor",
+ 	 	 	 	"trans": "Хэш процессор",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
@@ -741,7 +741,7 @@
  	 	},
  	 	"aiCore": {
  	 	 	"name": {
- 	 	 	 	"trans": "AI Core",
+ 	 	 	 	"trans": "AI ядро",
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
@@ -751,7 +751,7 @@
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Energy Cell",
+ 	 	 	 	"trans": "Энергетическая клетка",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
@@ -761,7 +761,7 @@
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti Matter Charge",
+ 	 	 	 	"trans": "Генератор антиматерии",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
@@ -771,7 +771,7 @@
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammunition tech parts",
+ 	 	 	 	"trans": "Детали боеприпасов",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
@@ -781,8 +781,8 @@
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military ammunition tech parts",
- 	 	 	 	"eng": "Military ammunition tech parts"
+        "trans": "Военные детали боеприпасов",
+        "eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"trans": "Детали военных боеприпасов, часто используются правительством, армией и элитой. Могут быть использованы для создания полезных боеприпасов.",
@@ -791,7 +791,7 @@
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tech Scrap",
+ 	 	 	 	"trans": "Тех. металлолом",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
